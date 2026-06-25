@@ -1,6 +1,6 @@
 
 > [!NOTE]
-> I regret to inform the community that since [my house was destroyed by russians who invaded my country](https://twitter.com/vshymanskyy/status/1568657607229075456), **Wasm3 will enter a minimal maintenance phase**. At this time, I am unable to continue the development of new features. However, I am committed to keeping the project alive and will actively review and merge incoming Pull Requests. I deeply appreciate your understanding and support during this difficult period. **Your contributions to Wasm3 are now more valuable than ever.**
+> This is a fork from wasm3 an unmaintained fast WebAssembly interpreter and the most universal WASM runtime. My respects to the creator of the original.**
 
 <img align="right" width="30%" src="/extra/screenshot-ios.png">
 
